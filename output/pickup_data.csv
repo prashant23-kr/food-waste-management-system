@@ -1,0 +1,6 @@
+Delivery_Status,Claim_Count,Total_Claimed_KG,Average_Pickup_Delay_Min
+Assigned,1759,36700.82,39.82
+Cancelled,1191,25122.27,39.63
+Delivered,7823,164889.62,38.94
+Picked Up,2692,57747.75,39.03
+Requested,1535,32027.59,38.67
