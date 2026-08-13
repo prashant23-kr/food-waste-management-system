@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Trash2, TrendingDown, BarChart3, AlertTriangle } from "lucide-react";
+import { Trash2, TrendingDown, BarChart3, AlertTriangle,Package,TrendingUp  } from "lucide-react";
 import {
   BarChart,
   Bar,

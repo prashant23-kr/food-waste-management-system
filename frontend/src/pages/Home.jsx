@@ -42,7 +42,7 @@ const Home = () => {
             </p>
             <div className="flex flex-wrap gap-4">
               <Link to="/dashboard">
-                <Button size="lg" className="bg-white text-primary-700 hover:bg-primary-50">
+                <Button size="lg" className="text-primary-700 hover:bg-primary-50">
                   View Dashboard <ArrowRight className="w-5 h-5 ml-2" />
                 </Button>
               </Link>
